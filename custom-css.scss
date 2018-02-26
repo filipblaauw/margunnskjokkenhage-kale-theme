@@ -52,6 +52,9 @@ a:hover, .entry-meta a:hover {
 .entry-readmore {
 	text-align: right;
 	margin-bottom: 1rem;
+	a:visited {
+		color: white;
+	}
 }
 
 .sidebar-no-borders .widget-title, .jetpack_subscription_widget {
